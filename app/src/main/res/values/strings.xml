@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Palemprak</string>
+    <string name="mulai_text">SELANJUTNYA</string>
+    <string name="main_page">PALEMPRAK</string>
+    <string name="main_deskripsi">Aplikasi pemilihan tempat prakerin berbasis Android.</string>
+    <string name="menu2_judul">HALAMAN UTAMA</string>
+    <string name="menu2_deskripsi">Di halaman ini kamu dapat memilih salah satu menu untuk mengetahui apa isi didalamnya :)</string>
+    <string name="footer_versi">Versi 1.0</string>
+    <string name="btn_quiz">Quiz</string>
+    <string name="btn_prakerin">Pengertian Prakerin</string>
+    <string name="btn_gallery">Detail dunia industri</string>
+    <string name="btn_daftardudi">List dunia industri</string>
+    <string name="btn_about">About</string>
+    <string name="btn_exit_menu2">EXIT</string>
+    <string name="profile_about">Agus Fajar Hardeka</string>
+    <string name="profile_kampus">STIMIK TUNAS BANGSA</string>
+    <string name="profile_kab">BANJARNEGARA</string>
+    <string name="profile_email">fajarhardeka@icloud.com</string>
+    <string name="profile_about_menu">Developer Profile</string>
+    <string name="profile_number">083840306960</string>
+    <string name="prakerin_judul">PRAKERIN</string>
+    <string name="djava_foto_ket">Foto Praktek Kerja Industri (Djava Computer)</string>
+    <string name="prakerin_adalah">Merupakan bentuk kerja sama antara SMK dengan industri, yang selama ini dilakukan oleh sekolah-sekolah dengan memberikan kepercayaan terhadap industri, untuk membimbing siswa mencapai kompetensi sesuai dengan kurikulum, yang biasa disingkat dengan PRAKERIN (Praktek Kerja Industri). </string>
+    <string name="prakerin_judul_daftar">Tempat Prakerin TKJ tahun 2021/2022</string>
+    <string name="nama_sekolah">SMK PANCA BHAKTI RAKIT</string>
+    <string name="deskripsi">Deskripsi Tempat</string>
+    <string name="heading_quiz">Palemprak Quizoner</string>
+    <string name="daftar_tempat">
+        1. ANUGRAH KOMPUTER\n
+        2. AWS MEDIANET\n
+        3. DATATECH SOLUTION\n
+        4. DJAVA KOMPUTER\n
+        5. TUNAS MULTI DATA\n
+        6. MITRA DATA\n
+        7. MAJUREJO NETWORK\n
+        8. KLINIK KOMPUTER\n
+        9. MAYO DISTRO\n
+        10. HITAM PUTIH MULTIMEDIA\n
+        11. GALAXY DIGITAL PRINTING\n
+        12. KREASIK DIGITAL PRINTING\n
+        13. NENTINEN APPAREL\n
+        14. SMP NEGERI 1 RAKIT\n
+        15. MTS NEGERI 3 BANJARNEGARA\n
+        16. MTS NEGERI 4 BANJARNEGARA\n
+    </string>
+    <string name="tempat_name">Tempat Prakerin</string>
+
+
+</resources>
